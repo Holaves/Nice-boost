@@ -6,9 +6,10 @@
 <h2>language used and tools</h2>
 <ol>
   <li>JavaScript</li>
+  <li>jQuery</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>SCSS</li>
+  <li>SASS/SCSS</li>
   <li>Vue JS</li>
   <li>Vuex</li>
   <li>Vue router</li>
