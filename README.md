@@ -5,13 +5,13 @@
 <br><br>
 <h2>language used and tools</h2>
 <ol>
-  <li>JavaScript</li>
-  <li>jQuery</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>SASS/SCSS</li>
-  <li>Vue JS</li>
-  <li>Vuex</li>
-  <li>Vue router</li>
-  <li>(Git and GitHub)</li>
+  <li> JavaScript</li>
+  <li> jQuery</li>
+  <li> HTML</li>
+  <li> CSS</li>
+  <li> SASS/SCSS</li>
+  <li> Vue JS</li>
+  <li> Vuex</li>
+  <li> Vue router</li>
+  <li> (Git and GitHub)</li>
 </ol>
