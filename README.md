@@ -5,7 +5,7 @@
 <br><br>
 <h2>language used and tools</h2>
 <ol>
-  <li> JavaScript</li>
+  <li> JavaScript </li>
   <li> jQuery</li>
   <li> HTML</li>
   <li> CSS</li>
