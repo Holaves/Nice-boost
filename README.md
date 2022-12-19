@@ -15,4 +15,4 @@
   <li> Vue router</li>
 </ul>
 <br><hr>
-<span align="center">Start date: 01/07/2021; End date: 27/07/2021</span>
+<p align="center">Start date: 01/07/2021; End date: 27/07/2021</p>
