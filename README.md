@@ -1,7 +1,7 @@
 <h1 align="center">Nice-Boost</h1>
 <br><br>
 <h2>Project Description</h2>
-<font size="20px">This project was created by me in order to test my skills and knowledge in the field of frontend programming. And at the time of writing this project, I studied a technology such as "Vue.js " and immediately hurried to test it in practice. </font>
+<font size="20px" color="red">This project was created by me in order to test my skills and knowledge in the field of frontend programming. And at the time of writing this project, I studied a technology such as "Vue.js " and immediately hurried to test it in practice. </font>
 <br><br>
 <h2>language used and libraries</h2>
 <ol>
