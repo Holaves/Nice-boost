@@ -4,7 +4,7 @@
 <p>This project was created by me in order to test my skills and knowledge in the field of frontend programming. And at the time of writing this project, I studied a technology such as <b>Vue.js</b> and immediately hurried to test it in practice. </p>
 <br><br>
 <h2>Languages and tools used</h2>
-<ol>
+<ul>
   <li> JavaScript </li>
   <li> jQuery</li>
   <li> HTML</li>
@@ -14,4 +14,4 @@
   <li> Vuex</li>
   <li> Vue router</li>
   <li> (Git and GitHub)</li>
-</ol>
+</ul>
