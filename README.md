@@ -13,5 +13,6 @@
   <li> Vue JS</li>
   <li> Vuex</li>
   <li> Vue router</li>
-  <li> (Git and GitHub)</li>
 </ul>
+<br><hr>
+<span text-align="right">Start date: 01/07/2021; End date: 27/07/2021</span>
